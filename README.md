@@ -11,5 +11,4 @@ I enjoy solving real-world problems with clean and scalable code, and I'm always
 ## 📫 Let's connect!
 
 - ✉️ mateo350dk@gmail.com  
-- 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)  
-- 💻 [GitHub](https://github.com/Matt-Py-GH)
+- 💼 [LinkedIn](https://www.linkedin.com/in/MateoDelgadoUgarte/)
