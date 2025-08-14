@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Mateo                                         ![](https://komarev.com/ghpvc/?username=Matt-PY-GH&label=Profile%20views&color=0e75b6&style=flat)
+# Hi there 👋 I'm Mateo
 
 I'm a software developer from Argentina passionate about building efficient and modern applications.
 
